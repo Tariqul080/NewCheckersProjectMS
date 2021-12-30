@@ -1,0 +1,2 @@
+# NewCheckersProjectMS
+ UpdatingCodingSkill
